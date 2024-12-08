@@ -1,0 +1,114 @@
+baseURL: ""
+title: Andrei C. Dumitrescu
+theme: PaperMod
+
+taxonomies:
+  tag: tags
+
+menu:
+  main:
+    - name: About
+      url: about/
+      weight: 1 
+    - name: Books
+      url: books/
+      weight: 5 
+    # - name: Papers
+    #   url: papers/
+      weight: 2
+    - name: Courses
+      url: courses/
+      weight: 3
+    # - name: Data
+    #   url: data/
+      weight: 4 
+    - name: Blog
+      url: https://medium.com/@claudiu.dumitrescu11
+      # url: 
+      weight: 5
+      
+params:
+  description: "I am a Andrei C. Dumitrescu, Financial Analyst & Controller working at ABB Romania and student of Business Analaytics and Faculty of Business Administration from UB"
+  author: Andrei C. Dumitrescu
+  DateFormat: "January 2006"
+  defaultTheme: "dark"
+  hideFooter: false
+  disableThemeToggle: false
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: false
+  MainSections: 
+    - books
+    - courses
+    # - papers
+    # - data
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+
+  profileMode:
+    enabled: true
+    title: Andrei C. Dumitrescu
+    subtitle: "I am Andrei, Financial Analyst & Controller working at ABB Romania and student of Business Analaytics and Faculty of Business Administration from UB."
+    imageUrl: "https://media.licdn.com/dms/image/v2/D4D03AQG5cfPYMYyURQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723125022055?e=1739404800&v=beta&t=pwLKrS1hwU8ZBaCNmOITj3ZpXxcJxPnToLi29x8ft_w"
+    imageWidth: 280
+    imageHeight: 280
+    buttons:
+    #   - name: About
+    #     url: about/
+    #   - name: Courses
+    #     url: courses/
+      # - name: Data
+      # #   url: data/
+      # - name: Books
+      #   url: books/
+      # - name: Tags
+      #   url: tags/
+      # - name: Archive
+      #   url: archive/
+      # - name: Blog
+      #   url: https://medium.com/@claudiu.dumitrescu11
+
+  socialIcons:
+    - name: CV
+      # url: cv.pdf
+    - name: Email
+      url: mailto:claudiu.dumitrescu1@outlook.com
+    # - name: Zoom
+    #   url: https://www.zoom.us/my/igelfeld
+    # - name: Location
+    #   url: location/
+    # - name: Office Hours
+    #   url: officehours/
+    # # - name: Google Scholar
+    #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+    - name: GitHub
+      url: https://github.com/daclaudiu
+    - name: medium
+      url: https://medium.com/@claudiu.dumitrescu11
+    # - name: YouTube
+    #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
+    # - name: Twitter
+    #   url: https://twitter.com/McCallSmith
+
+  # assets:
+  #   # disableScrollBarStyle: true
+  
+  # cover:
+  #   hiddenInList: false
+  #   hiddenInSingle: true
+  
+  # label:
+  #   text: "Moritz-Maria von Igelfeld"
+  #   icon: favicon.ico
+  #   iconHeight: 18
+

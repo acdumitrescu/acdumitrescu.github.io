@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Andrei C. Dumitrescu</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Andrei C. Dumitrescu</description>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Dec 2024 17:46:10 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>//localhost:1313/posts/first-post/</link>
+      <pubDate>Sun, 08 Dec 2024 17:46:10 +0200</pubDate>
+      <guid>//localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;Welcome to my first blog post!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>//localhost:1313/blog/</link>
+      <pubDate>Sun, 08 Dec 2024 17:45:06 +0200</pubDate>
+      <guid>//localhost:1313/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>//localhost:1313/books/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/books/</guid>
+      <description>&lt;h1 id=&#34;in-progress&#34;&gt;In progress:&lt;/h1&gt;
+&lt;h3 id=&#34;quick-biohacking-guide---a-concise-set-of-systems-and-guidelines-for-reversing-aging-and-staying-young&#34;&gt;Quick Biohacking Guide - A Concise Set of Systems and Guidelines for Reversing Aging and Staying Young&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;m currently working on a book that offers a clear, concise guide to biohacking for reversing aging and staying young. My goal is to provide a practical, no-nonsense approach that&amp;rsquo;s accessible to anyone interested in improving their health.&lt;/p&gt;
+&lt;p&gt;One thing I want to emphasize is that there&amp;rsquo;s a lot of conflicting information online, with many resources claiming to have the &amp;ldquo;secret&amp;rdquo; to slowing down or reversing aging. However, most experts agree that this requires significant investment in gadgets and a strict adherence to unrealistic schedules.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>courses</title>
+      <link>//localhost:1313/courses/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/courses/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
