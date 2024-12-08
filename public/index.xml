@@ -16,23 +16,23 @@
       <description>&lt;p&gt;Welcome to my first blog post!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Blog</title>
-      <link>//localhost:1313/blog/</link>
-      <pubDate>Sun, 08 Dec 2024 17:45:06 +0200</pubDate>
-      <guid>//localhost:1313/blog/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>About Me</title>
       <link>//localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;In progress. Will be updated soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>//localhost:1313/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Books</title>
       <link>//localhost:1313/books/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/books/</guid>
       <description>&lt;h1 id=&#34;in-progress&#34;&gt;In progress:&lt;/h1&gt;
 &lt;h3 id=&#34;quick-biohacking-guide---a-concise-set-of-systems-and-guidelines-for-reversing-aging-and-staying-young&#34;&gt;Quick Biohacking Guide - A Concise Set of Systems and Guidelines for Reversing Aging and Staying Young&lt;/h3&gt;
@@ -40,11 +40,11 @@
 &lt;p&gt;One thing I want to emphasize is that there&amp;rsquo;s a lot of conflicting information online, with many resources claiming to have the &amp;ldquo;secret&amp;rdquo; to slowing down or reversing aging. However, most experts agree that this requires significant investment in gadgets and a strict adherence to unrealistic schedules.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>courses</title>
+      <title>Courses</title>
       <link>//localhost:1313/courses/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/courses/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;</description>
+      <description>&lt;p&gt;I&amp;rsquo;m creating a series of mini-courses that empower individuals with finance, technology, and data science expertise to take control of their financial lives, leveraging the latest innovations to simplify and automate tasks.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
